@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FD5C60</color>
+    <color name="colorPrimaryDark">#BAF1F8</color>
+    <color name="colorAccent">#FA2A52</color>
+
+    <color name="tab_list_background">#E2E5EA</color>
+    <color name="trans">#80000000</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="appliction_form_bg">#E2E5EA</color>
+    <color name="black_app_color">#4F4F4F</color>
+
+    <color name="accept">#4d9a1e</color>
+    <color name="reject">#E31E25</color>
+</resources>

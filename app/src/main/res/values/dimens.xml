@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="margins4">4dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin_s">6dp</dimen>
+    <dimen name="iconImg">60dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+
+</resources>
